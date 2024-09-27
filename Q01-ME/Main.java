@@ -36,6 +36,6 @@ public class Main
 		
 	System.out.printf("%s seu novo salário é igual a R$%.2f",nomeFuncionario, salario + reajuste);
 		
-			
+		sc.close();	
 	}
 }
